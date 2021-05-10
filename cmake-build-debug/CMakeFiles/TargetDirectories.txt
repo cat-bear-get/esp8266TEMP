@@ -1,0 +1,5 @@
+/home/jingwei/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jingwei/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/Production.dir
+/home/jingwei/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jingwei/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/Debug.dir
+/home/jingwei/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/Z_DUMMY_TARGET.dir

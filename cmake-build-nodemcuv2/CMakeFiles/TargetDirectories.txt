@@ -1,0 +1,5 @@
+/home/jingwei/CLionProjects/untitled2/cmake-build-nodemcuv2/CMakeFiles/rebuild_cache.dir
+/home/jingwei/CLionProjects/untitled2/cmake-build-nodemcuv2/CMakeFiles/Production.dir
+/home/jingwei/CLionProjects/untitled2/cmake-build-nodemcuv2/CMakeFiles/edit_cache.dir
+/home/jingwei/CLionProjects/untitled2/cmake-build-nodemcuv2/CMakeFiles/Debug.dir
+/home/jingwei/CLionProjects/untitled2/cmake-build-nodemcuv2/CMakeFiles/Z_DUMMY_TARGET.dir
